@@ -1,4 +1,4 @@
-package com.amazon.ata.inheritance.prework.day1.model;
+package com.amazon.ata.inheritance.model;
 
 /**
  * The various kinds of colored characters the visualizer can use, and their ANSI escape codes.

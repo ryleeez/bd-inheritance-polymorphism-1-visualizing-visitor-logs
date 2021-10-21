@@ -1,11 +1,5 @@
 ## Visualizing Visitor Logs
 
-**Branch name: inheritance-day1-prework**
-
-**RDE workflows:**
-
-* `inheritance-day1-prework-visualizer-test`
-
 ### Read
 
 Data visualization is the graphic representation of data. It involves producing images 
@@ -90,12 +84,11 @@ Try updating the provided uml to include your new classes. This practice will co
 when you work on your project's diagrams!
 
 When you have implemented your three new classes and updated the `VisitFactory`, run the
-rde workflow or the `VisitVisualizerTest` from IntelliJ. A friendly picture should be output!
+rde workflow or the `com.amazon.ata.inheritance.VisitVisualizerTest` from IntelliJ. A friendly picture should be output!
 
 **You have completed this pre-work when:**
 * You have implemented the 3 visit classes
 * You have updated `VisitFactory` to return the correct visit objects
-* All tests in `VisitVisualizerTest` are passing
-* The rde workflow is passing
+* All tests in `com.amazon.ata.inheritance.VisitVisualizerTest` are passing
 * You have committed and pushed your code
 * You have answered the canvas quiz

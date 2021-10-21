@@ -1,7 +1,7 @@
-package com.amazon.ata.inheritance.prework.day1;
+package com.amazon.ata.inheritance;
 
-import com.amazon.ata.inheritance.prework.day1.model.InvalidVisit;
-import com.amazon.ata.inheritance.prework.day1.model.Visit;
+import com.amazon.ata.inheritance.model.InvalidVisit;
+import com.amazon.ata.inheritance.model.Visit;
 
 /**
  * Produces all the various types of Visits.

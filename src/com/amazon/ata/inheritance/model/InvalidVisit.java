@@ -1,4 +1,4 @@
-package com.amazon.ata.inheritance.prework.day1.model;
+package com.amazon.ata.inheritance.model;
 
 public class InvalidVisit extends Visit {
 

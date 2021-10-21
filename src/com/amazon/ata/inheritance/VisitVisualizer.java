@@ -1,6 +1,6 @@
-package com.amazon.ata.inheritance.prework.day1;
+package com.amazon.ata.inheritance;
 
-import com.amazon.ata.inheritance.prework.day1.model.Visit;
+import com.amazon.ata.inheritance.model.Visit;
 
 import java.io.InputStream;
 import java.util.ArrayList;

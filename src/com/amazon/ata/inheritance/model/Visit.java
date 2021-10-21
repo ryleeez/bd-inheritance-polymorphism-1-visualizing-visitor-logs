@@ -1,4 +1,4 @@
-package com.amazon.ata.inheritance.prework.day1.model;
+package com.amazon.ata.inheritance.model;
 
 /**
  * Representation of a Visit. Includes default colors, internal color printing
