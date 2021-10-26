@@ -84,7 +84,7 @@ Try updating the provided uml to include your new classes. This practice will co
 when you work on your project's diagrams!
 
 When you have implemented your three new classes and updated the `VisitFactory`, run the
-rde workflow or the `com.amazon.ata.inheritance.VisitVisualizerTest` from IntelliJ. A friendly picture should be output!
+ `com.amazon.ata.inheritance.VisitVisualizerTest` from IntelliJ. A friendly picture should be output!
 
 **You have completed this pre-work when:**
 * You have implemented the 3 visit classes
